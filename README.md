@@ -20,6 +20,7 @@ fulll
 | ------- |
 | [0001-two-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0001-two-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ fulll
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0002-add-two-numbers) |
+| [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +42,7 @@ fulll
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Counting Sort
 |  |
 | ------- |
