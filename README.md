@@ -19,6 +19,7 @@ fulll
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Linked List
@@ -39,6 +40,7 @@ fulll
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@ fulll
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
