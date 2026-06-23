@@ -10,6 +10,7 @@ fulll
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -55,4 +56,8 @@ fulll
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
