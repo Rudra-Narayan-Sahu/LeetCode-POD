@@ -29,6 +29,7 @@ fulll
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0007-reverse-integer) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Recursion
 |  |
