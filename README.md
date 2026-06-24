@@ -21,6 +21,7 @@ fulll
 | ------- |
 | [0001-two-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Linked List
@@ -33,6 +34,7 @@ fulll
 | [0002-add-two-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Recursion
 |  |
@@ -60,4 +62,8 @@ fulll
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
