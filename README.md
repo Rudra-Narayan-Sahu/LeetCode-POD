@@ -12,6 +12,7 @@ fulll
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0168-excel-sheet-column-title) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -39,6 +40,7 @@ fulll
 | [0007-reverse-integer](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
+| [0168-excel-sheet-column-title](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0168-excel-sheet-column-title) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Recursion
 |  |
