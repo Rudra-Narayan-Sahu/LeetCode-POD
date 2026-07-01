@@ -13,6 +13,7 @@ fulll
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
@@ -44,12 +45,14 @@ fulll
 | [0009-palindrome-number](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0263-ugly-number) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +77,7 @@ fulll
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 ## Matrix
 |  |
 | ------- |
