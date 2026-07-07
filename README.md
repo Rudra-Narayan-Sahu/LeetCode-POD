@@ -49,6 +49,7 @@ fulll
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0263-ugly-number) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
