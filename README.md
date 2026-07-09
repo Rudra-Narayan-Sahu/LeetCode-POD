@@ -7,6 +7,7 @@ fulll
 | ------- |
 | [0001-two-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -36,6 +37,7 @@ fulll
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -115,4 +117,16 @@ fulll
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
