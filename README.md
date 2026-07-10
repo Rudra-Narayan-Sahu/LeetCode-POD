@@ -129,4 +129,20 @@ fulll
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
