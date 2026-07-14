@@ -152,4 +152,8 @@ fulll
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
