@@ -62,6 +62,7 @@ fulll
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -165,6 +166,7 @@ fulll
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
