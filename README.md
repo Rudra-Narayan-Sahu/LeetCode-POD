@@ -35,6 +35,7 @@ fulll
 | [0059-spiral-matrix-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0059-spiral-matrix-ii) |
 | [0198-house-robber](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
 | [1288-remove-covered-intervals](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
@@ -176,4 +177,5 @@ fulll
 | ------- |
 | [0198-house-robber](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
