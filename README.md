@@ -36,6 +36,7 @@ fulll
 | [0198-house-robber](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
+| [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
@@ -105,12 +106,14 @@ fulll
 | ------- |
 | [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
