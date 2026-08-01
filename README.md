@@ -40,6 +40,7 @@ fulll
 | [0059-spiral-matrix-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0059-spiral-matrix-ii) |
 | [0198-house-robber](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
@@ -70,6 +71,7 @@ fulll
 | [0263-ugly-number](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1952-three-divisors](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1952-three-divisors) |
@@ -86,6 +88,7 @@ fulll
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +204,7 @@ fulll
 | [0198-house-robber](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
@@ -211,4 +215,8 @@ fulll
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
