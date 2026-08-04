@@ -73,6 +73,7 @@ fulll
 | [0168-excel-sheet-column-title](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
@@ -227,7 +228,24 @@ fulll
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
