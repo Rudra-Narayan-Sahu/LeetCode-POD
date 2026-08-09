@@ -47,6 +47,7 @@ fulll
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
@@ -81,6 +82,7 @@ fulll
 | [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1952-three-divisors](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1952-three-divisors) |
@@ -163,6 +165,7 @@ fulll
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -222,6 +225,7 @@ fulll
 | [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
@@ -238,6 +242,7 @@ fulll
 | [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 ## Brainteaser
 |  |
@@ -247,6 +252,7 @@ fulll
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
+| [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |
 | ------- |
@@ -259,4 +265,8 @@ fulll
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
