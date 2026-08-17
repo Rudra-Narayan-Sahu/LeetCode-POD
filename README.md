@@ -58,6 +58,7 @@ fulll
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -92,6 +93,7 @@ fulll
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1952-three-divisors](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -237,6 +239,7 @@ fulll
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +258,7 @@ fulll
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 ## Brainteaser
 |  |
 | ------- |
