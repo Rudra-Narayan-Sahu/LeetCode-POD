@@ -5,7 +5,7 @@ class Solution(object):
         for i in range(2,len(nums)):
             if arr1[-1]>arr2[-1]:
                 arr1.append(nums[i])
-            elif arr1[-1]<arr2[-1]:
+            else:
                 arr2.append(nums[i])
         
         return arr1+arr2
