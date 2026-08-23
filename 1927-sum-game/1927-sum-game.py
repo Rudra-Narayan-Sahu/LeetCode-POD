@@ -24,14 +24,7 @@ class Solution:
          #             return True
         if 2*(s1-s2)==9*(q2-q1):
             return False
-
         return True
-    def counter(self,num:str)->int:
-        c=0
-        for ch in num:
-            if ch=='?':
-                c+=1
-        return c
     def sumCal(self,num:str)->int:
         s=0
         for el in num:
