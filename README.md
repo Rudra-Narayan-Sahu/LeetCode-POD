@@ -68,6 +68,7 @@ fulll
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -103,6 +104,7 @@ fulll
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -193,6 +195,7 @@ fulll
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -258,6 +261,7 @@ fulll
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -279,6 +283,7 @@ fulll
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1927-sum-game) |
 ## Brainteaser
 |  |
@@ -289,6 +294,7 @@ fulll
 | ------- |
 | [0292-nim-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -307,6 +313,7 @@ fulll
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 ## Knapsack Problem
 |  |
 | ------- |
