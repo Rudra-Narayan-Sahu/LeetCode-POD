@@ -16,6 +16,7 @@ fulll
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -80,6 +81,7 @@ fulll
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
