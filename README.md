@@ -15,6 +15,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -80,6 +81,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3731-find-missing-elements) |
@@ -176,6 +178,7 @@
 | [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +279,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
