@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
@@ -269,6 +270,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0338-counting-bits) |
