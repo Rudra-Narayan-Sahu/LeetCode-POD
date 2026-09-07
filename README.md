@@ -28,6 +28,7 @@
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1927-sum-game) |
@@ -278,6 +279,7 @@
 | [0518-coin-change-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
