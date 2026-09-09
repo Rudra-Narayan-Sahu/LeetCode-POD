@@ -4,11 +4,11 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        if n<1000:
+        if n<=999:
             return 0
-        countComma=0
         start=1000
+        count=0
         while start<=n:
-            countComma+=n-start+1
+            count+=n-start+1
             start*=1000
-        return countComma
+        return count
