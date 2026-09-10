@@ -242,10 +242,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
 | ------- |
