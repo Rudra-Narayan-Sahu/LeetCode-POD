@@ -15,6 +15,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,6 +83,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -143,6 +145,7 @@
 | [0002-add-two-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [1291-sequential-digits](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
