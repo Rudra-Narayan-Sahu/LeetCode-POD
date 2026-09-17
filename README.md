@@ -11,6 +11,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -71,6 +72,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
@@ -228,6 +230,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -294,6 +297,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
@@ -342,6 +346,7 @@
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
