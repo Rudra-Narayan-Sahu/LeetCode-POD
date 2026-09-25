@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0142-linked-list-cycle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
@@ -34,6 +35,7 @@
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -172,6 +174,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -200,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
+| [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -273,6 +277,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+| [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -394,4 +399,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
