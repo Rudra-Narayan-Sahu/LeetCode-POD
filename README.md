@@ -15,6 +15,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -39,6 +40,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -81,6 +83,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
