@@ -81,6 +81,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -131,6 +132,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1563-stone-game-v) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1927-sum-game) |
@@ -157,6 +159,7 @@
 | [0002-add-two-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -218,6 +221,7 @@
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -403,4 +407,8 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
