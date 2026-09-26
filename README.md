@@ -88,6 +88,7 @@
 | [1872-stone-game-viii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -222,6 +223,7 @@
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -411,4 +413,5 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
