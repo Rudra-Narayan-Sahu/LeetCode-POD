@@ -18,9 +18,6 @@ class Solution(object):
                     stack.append(el)
             else:
                 stack.append(ch)
-        res=""
-        while stack:
-            res+=stack.pop()
-        return res[::-1]
+        return "".join(stack)
 
         
