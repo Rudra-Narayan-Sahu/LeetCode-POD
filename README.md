@@ -41,6 +41,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -213,6 +214,7 @@
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
 | [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -423,4 +425,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
