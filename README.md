@@ -35,6 +35,7 @@
 | [0115-distinct-subsequences](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0678-valid-parenthesis-string) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3310-remove-methods-from-project) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
 ## Queue
 |  |
