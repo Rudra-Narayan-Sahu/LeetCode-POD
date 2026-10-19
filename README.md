@@ -103,6 +103,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -203,6 +204,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -280,6 +282,7 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
