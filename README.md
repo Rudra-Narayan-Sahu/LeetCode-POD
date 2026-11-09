@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -89,6 +90,7 @@
 | [0877-stone-game](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1386-cinema-seat-allocation) |
@@ -248,6 +250,7 @@
 | [0048-rotate-image](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -295,6 +298,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -312,6 +316,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3310-remove-methods-from-project) |
@@ -321,6 +326,7 @@
 | [0100-same-tree](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
