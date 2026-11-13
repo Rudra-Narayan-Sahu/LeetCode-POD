@@ -114,6 +114,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rudra-Narayan-Sahu/Contribution/tree/master/3513-number-of-unique-xor-triplets-i) |
